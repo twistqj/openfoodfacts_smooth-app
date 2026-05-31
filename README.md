@@ -15,8 +15,7 @@
 
 ### Stable version
 
-- Install it on **Android
-  ** ([Google Play](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner), [F-Droid](https://f-droid.org/fr/packages/openfoodfacts.github.scrachx.openfood/)
+- Install it on **Android** ([Google Play](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner), [F-Droid](https://f-droid.org/fr/packages/openfoodfacts.github.scrachx.openfood/)
   or [Amazon App Store](https://www.amazon.com/Open-Food-Facts-food-Nutriscore/dp/B00U49IVIU))
   or [iPhone/iPad](https://apps.apple.com/app/open-food-facts/id588797948).
 
@@ -28,8 +27,7 @@
 ### Testing version
 
 - Note that an internal development
-  build ([Android](https://play.google.com/apps/internaltest/4699092342921529278) or **iPhone/iPad
-  ** ([App Store](https://testflight.apple.com/join/c2tiBHgd)) if you'd like to use the results of
+  build ([Android](https://play.google.com/apps/internaltest/4699092342921529278) or **iPhone/iPad** ([App Store](https://testflight.apple.com/join/c2tiBHgd)) if you'd like to use the results of
   your PRs quicker.
 
 <img alt="app showcase" height='175' src="https://user-images.githubusercontent.com/1689815/168430524-3adc923a-1ce3-4233-9af5-02e9d49a76ca.png" align="left" hspace="1" vspace="1">
@@ -66,9 +64,9 @@
 ## Current Release
 
 - https://github.com/openfoodfacts/smooth-app/releases
-- Latest commit deployed to Apple App Store: Released on November 14th, 2025 as Version 4.22.0
-- Latest commit deployed to Google Play Store: November 13th, 2025 as Version 4.22.0
-- Latest commit deployed to F-Droid: November 15th, 2025 as Version 4.22.3
+- Latest commit deployed to Apple App Store: Released on January 7th, 2026 as Version 4.23.0
+- Latest commit deployed to Google Play Store: December 23th, 2025 as Version 4.22.3
+- Latest commit deployed to F-Droid: January 7th, 2026 as Version 4.23.0
 
 ## 📚 Code documentation
 
